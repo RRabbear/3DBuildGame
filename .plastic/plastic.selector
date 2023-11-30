@@ -1,0 +1,4 @@
+repository "3DBuildGame@svejing@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
